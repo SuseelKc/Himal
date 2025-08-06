@@ -84,6 +84,7 @@
                                                 <svg class="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 20 20">
                                                     <path d="M8 5v10l8-5-8-5z"/>
                                                 </svg>
+                                                <p class="text-sm font-medium">{{ $item->title }}</p>
                                             </div>
                                         </div>
                                         <!-- Click indicator overlay -->
